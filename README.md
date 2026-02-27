@@ -41,7 +41,7 @@
 https://e-commerce-fronted-lkff.vercel.app
 
 💻 GitHub  
-(Add repo link when available)
+https://github.com/piyush24145/URBANEDGE_fronted
 
 📌 Features
 
@@ -59,7 +59,7 @@ https://e-commerce-fronted-lkff.vercel.app
 https://lost-found-fronted.vercel.app
 
 💻 GitHub  
-(Add repo link when available)
+https://github.com/piyush24145/Khoja-Kya_Frontend
 
 📌 Features
 
