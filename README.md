@@ -77,11 +77,12 @@
 ---
 
 ## 🧊 3D Contribution Graph
+
 <p align="center">
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://github.com/piyush24145/piyush24145/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="900"/>
 </p>
 
-> ⚠️ 3D graph ke liye workflow add karna padega (neeche steps de diye hain)
+
 
 ---
 
