@@ -38,31 +38,31 @@
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N4si&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush24145&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=N4si&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=piyush24145&theme=tokyonight)
 
 ---
 
 # 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4si&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush24145&layout=compact&theme=tokyonight)
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/N4si/N4si/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/piyush24145/piyush24145/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N4si)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush24145)
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/piyush24145/piyush24145/blob/output/github-contribution-grid-snake.svg)
