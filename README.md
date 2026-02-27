@@ -76,11 +76,7 @@
 
 ---
 
-## 🧊 3D Contribution Graph
 
-<p align="center">
-<img src="https://github.com/piyush24145/piyush24145/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="900"/>
-</p>
 
 
 
