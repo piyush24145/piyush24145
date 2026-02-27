@@ -63,23 +63,13 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=piyush24145&theme=tokyonight&hide_border=true"/>
 </p>
----
+
 
 ## 📈 Coding Activity & Contribution Analytics
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush24145&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=f85149&area=true&area_color=1f6feb&title_color=ffffff&custom_title=Piyush%20Kumar%20Contribution%20Graph"/>
 </p>
-
----
-
-
-
-
-
----
-
-
 
 ---
 
