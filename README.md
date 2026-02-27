@@ -59,13 +59,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyush24145&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush24145&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=piyush24145&theme=tokyonight&hide_border=true"/>
