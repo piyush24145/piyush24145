@@ -86,10 +86,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=piyush24145&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+
 
 ---
 
@@ -107,9 +104,18 @@
 
 ---
 
-## 🧠 LeetCode Stats (Optional)
+# 🧠 LeetCode Progress
+
 <p align="center">
-  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+<img height="200" src="https://leetcard.jacoblin.cool/piyush_kumar45?theme=dark&font=Fira%20Code&ext=heatmap"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-piyush__kumar45-orange?style=for-the-badge&logo=leetcode"/>
+
 </p>
 
 ---
