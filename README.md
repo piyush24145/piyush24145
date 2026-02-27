@@ -59,22 +59,23 @@
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyush24145&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush24145&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p> -->
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=piyush24145&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Contribution Activity
+
 <p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush24145&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush24145&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=f85149&area=true&area_color=1f6feb&title_color=ffffff&custom_title=Piyush%20Kumar%20Contribution%20Graph"/>
 </p>
 
 ---
